@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyScott146&theme=tokyonight)](https://github.com/JeremyScott146/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyScott146&layout=compact&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,codepen,discord,github,ai)](https://skillicons.dev)
