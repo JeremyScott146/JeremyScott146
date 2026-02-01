@@ -1,6 +1,6 @@
 ## Hello! 
 I'm a front-end web developer & student at ASU in the final year of a GIT-Full Stack Web Dev undergrad degree.
-  <br> Outside of programming, I enjoy music production and photography (checkout my IG).
+  <br> Outside of programming, I enjoy music production and photography (checkout my steak_nachos).
   - I'm currently learning Java and SQL
   - I'm currently working on an ecomm site 🤓
 
