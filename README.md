@@ -1,5 +1,15 @@
-## Hi there 👋
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyScott146&show_icons=true&theme=tokyonight)
+## Hello! 
+I'm a front-end web developer & student at ASU in the final year of a GIT-Full Stack Web Dev undergrad degree.
+  <br> Outside of programming, I enjoy music production and photography (checkout my IG).
+  - I'm currently learning Java and SQL
+  - I'm currently working on an ecomm site 🤓
+
+If you've got an interesting project I'd love to collab! 
+
+
+
+
+<!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyScott146&show_icons=true&theme=tokyonight) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyScott146&layout=compact&theme=tokyonight)
 
