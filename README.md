@@ -8,12 +8,11 @@ If you've got an interesting project I'd love to collab!
 
 
 
+<!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyScott146&show_icons=true&theme=tokyonight) 
 
-<!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyScott146&show_icons=true&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyScott146&layout=compact&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyScott146&layout=compact&theme=tokyonight)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,codepen,discord,github,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,codepen,discord,github,ai)](https://skillicons.dev) 
 
 <!--
 **JeremyScott146/JeremyScott146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
